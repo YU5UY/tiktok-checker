@@ -1,0 +1,14 @@
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\bin\Debug\TikTokBomb.exe.config
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\bin\Debug\TikTokBomb.exe
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\bin\Debug\TikTokBomb.pdb
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\bin\Debug\Newtonsoft.Json.dll
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\bin\Debug\Newtonsoft.Json.xml
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\obj\Debug\FuckTiktok.csprojAssemblyReference.cache
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\obj\Debug\FuckTiktok.MainForm.resources
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\obj\Debug\TikTokBomb.Properties.Resources.resources
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\obj\Debug\FuckTiktok.SettingsForm.resources
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\obj\Debug\FuckTiktok.csproj.GenerateResource.cache
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\obj\Debug\FuckTiktok.csproj.CoreCompileInputs.cache
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\obj\Debug\FuckTiktok.csproj.CopyComplete
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\obj\Debug\TikTokBomb.exe
+F:\c_sharp_projects\FuckTiktok\FuckTiktok\obj\Debug\TikTokBomb.pdb
